@@ -1,0 +1,14 @@
+{
+  "name": "agent-autonomous-bounty-bot",
+  "version": "0.1.0",
+  "description": "TypeScript bot that allows agents to post and fulfill bounties using x402 payments.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "dev": "ts-node src/index.ts"
+  },
+  "license": "MIT",
+  "keywords": []
+}
